@@ -1,0 +1,8 @@
+{
+  "name": "es6-babel",
+  "version": "0.0.0",
+  "dependencies": {
+    "babel-core": "^5.2.17",
+    "es6-module-loader": "^0.16.6"
+  }
+}
